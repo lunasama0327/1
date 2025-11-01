@@ -523,12 +523,12 @@ export const pioConfig: import("./types/config").PioConfig = {
 	mode: "draggable", // 默认为可拖拽模式
 	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	dialog: {
-		welcome: "Welcome to Mizuki Website!", // 欢迎词
+		welcome: "欢迎喵!", // 欢迎词
 		touch: [
-			"What are you doing?",
-			"Stop touching me!",
+			"好痒喵",
+			"不要再摸了喵!",
 			"HENTAI!",
-			"Don't bully me like that!",
+			"H!",
 		], // 触摸提示
 		home: "点击我回到首页!", // 首页提示
 		skin: ["要换一换装吗?", "新衣服真好看喵~"], // 换装提示
