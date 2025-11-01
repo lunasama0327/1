@@ -350,8 +350,8 @@ export const commentConfig: CommentConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "Announcement", // 公告标题
-	content: "Welcome to my blog! This is a sample announcement.", // 公告内容
+	title: "公告", // 公告标题
+	content: "还原来到桜小路ルナ的主页", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
@@ -530,9 +530,9 @@ export const pioConfig: import("./types/config").PioConfig = {
 			"HENTAI!",
 			"Don't bully me like that!",
 		], // 触摸提示
-		home: "Click here to go back to homepage!", // 首页提示
-		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
-		close: "QWQ See you next time~", // 关闭提示
+		home: "点击我回到首页!", // 首页提示
+		skin: ["要换一换装吗?", "新衣服真好看喵~"], // 换装提示
+		close: "QWQ 下次再见了喵~", // 关闭提示
 		link: "https://github.com/matsuzaka-yuki/Mizuki", // 关于链接
 	},
 };
