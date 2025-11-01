@@ -21,7 +21,7 @@ const SITE_LANG = "en"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
 	title: "桜小路ルナ",
-	subtitle: "One demo website",
+	subtitle: "One  website",
 
 	lang: SITE_LANG,
 
@@ -50,7 +50,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	bangumi: {
-		userId: "your-bangumi-id", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
+		userId: "桜小路ルナ", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
 	},
 
 	anime: {
