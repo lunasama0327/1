@@ -248,7 +248,7 @@ export const navBarConfig: NavBarConfig = {
 			],
 		},
 		{
-			name: "My",
+			name: "我的",
 			url: "/content/",
 			icon: "material-symbols:person",
 			children: [
@@ -345,7 +345,7 @@ export const commentConfig: CommentConfig = {
 	enable: True, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
 	twikoo: {
 		envId: "https://twikoo.vercel.app",
-		lang: "cn", // 设置 Twikoo 评论系统语言为英文
+		lang: "cn", // 设置 Twikoo 评论系统语言为英文en
 	},
 };
 
